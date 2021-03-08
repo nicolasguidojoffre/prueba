@@ -1,3 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
 .a {
 text-decoration: none;
 color: black;
@@ -79,6 +87,7 @@ h1 {
     font-size: 15x;
     font-weight: 100;
     line-height: 25px;
+    text-align: center;
 }
 .fitness div:hover{
 background-color: black;

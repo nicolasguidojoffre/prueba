@@ -1,13 +1,5 @@
-@media (min-width: 780px) and (max-width: 1024px){
-}
-@media (min-width: 480px) and (max-width: 780px){
-}
-@media (max-width: 480px){
-    .size { 
-        width: 50%;
-    }
-.size {
-    background-color: black;
+$titulos3: rgb(67, 207, 11) 24px arial;
+p { font: $titulos3;
 }
 .a {
     text-decoration: none;
